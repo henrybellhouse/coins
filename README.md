@@ -1,2 +1,1 @@
-# coins
-Simulations involving Coins
+# Coin Simulations
